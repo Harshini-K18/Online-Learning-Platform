@@ -7,9 +7,9 @@ We collaborated as a team to develop this using modern web technologies.
 
 ## 🧑‍💻 Internship Project Details
 
-- 👩‍💻 Developed during our internship at **RSC Sys**, focused on building a scalable UI for an online learning platform.
-- 🤝 Collaborated with my teammate [Pragnya Ravikumar](https://github.com/PragnyaRavikumar).
-- 🔐 Original repository was private and maintained internally; this is the public version for demonstration.
+-  Developed during our internship at **RSC Sys Pvt Ltd**, focused on building a scalable UI for an online learning platform.
+-  Collaborated with my teammate [Pragnya Ravikumar](https://github.com/PragnyaRavikumar).
+-  Original repository was private and maintained internally; this is the public version for demonstration.
 
 ---
 
@@ -32,7 +32,7 @@ We collaborated as a team to develop this using modern web technologies.
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 1. **Clone the repository:**
 
