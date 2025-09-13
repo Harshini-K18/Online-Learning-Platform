@@ -24,10 +24,8 @@ We collaborated as a team to develop this using modern web technologies.
 
 ## 🛠️ Tech Stack
 
-- **React.js**
 - **HTML5**, **CSS3**
 - **JavaScript (ES6+)**
-- **Bootstrap** / custom responsive styles
 - **Git & GitHub** for version control
 
 ---
